@@ -25,12 +25,12 @@ Connector pinout
 - A == row closest to edge of board
 - D == row closest to CPU
 
-| Row |  0  |   7  |   8  |
-|-----|-----|------|------|
-| A   |     |  A3  |  A7  |
-| B   |     |  A5  |      |
-| C   |     |  A4  |      |
-| D   |     |  A6  |      |
+| Row |  0  |   6  |   7  |   8  |
+|-----|-----|------|------|------|
+| A   |     |      |  A3  |  A7  |
+| B   |     |  A1  |  A5  |      |
+| C   |     |      |  A4  |      |
+| D   |     |      |  A6  |      |
 
 
 
