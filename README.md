@@ -23,7 +23,7 @@ For fun there are no disignators on the silkcreen, it seems like there is no sil
 Connector pinout
 
 (D == row closest to CPU)
-Row A  8 - A7
+Row A  7 - A3, 8 - A7
 Row B  7 - A5
 Row C  7 - A4
 Row D 7 - A6
