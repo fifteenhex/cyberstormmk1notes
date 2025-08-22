@@ -19,3 +19,11 @@ For fun there are no disignators on the silkcreen, it seems like there is no sil
 - S74FCT573ATQ x 16
 - 22V10H-7JC/5 x 3
 - 74F20D
+
+Connector pinout
+
+(D == row closest to CPU)
+Row A  8 - A7
+Row B  7 - A5
+Row C  7 - A4
+Row D 7 - A6
