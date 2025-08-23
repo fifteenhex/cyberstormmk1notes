@@ -12,8 +12,8 @@ For fun there are no disignators on the silkcreen, it seems like there is no sil
     - 1 - in1
     - 4 - tap 2
     - 5 - tap 4, through 0R resistor - seems to go to scsi module connector
-    - 6 - tap 6, through 0R resistor
-    - 7 - tap 8, through 0R resistor
+    - 6 - tap 6, through 0R resistor - seems to go to scsi module connector
+    - 7 - tap 8, through 0R resistor - seems to go to scsi module and red dot pal
     - 8 - gnd
     - 13 - tap 3, through 0R resistor
     - 16 - vcc
