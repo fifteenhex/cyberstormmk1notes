@@ -11,7 +11,7 @@ For fun there are no disignators on the silkcreen, it seems like there is no sil
   - used pins:
     - 1 - in1
     - 4 - tap 2
-    - 5 - tap 4, through 0R resistor
+    - 5 - tap 4, through 0R resistor - seems to go to scsi module connector
     - 6 - tap 6, through 0R resistor
     - 7 - tap 8, through 0R resistor
     - 8 - gnd
