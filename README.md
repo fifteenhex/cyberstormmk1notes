@@ -7,6 +7,16 @@ For fun there are no disignators on the silkcreen, it seems like there is no sil
 ### Main module
 
 - DS1010S - 50ns delay line
+  - datasheet: https://www.analog.com/media/en/technical-documentation/data-sheets/DS1010.pdf
+  - used pins:
+    - 1
+    - 4
+    - 5
+    - 6
+    - 7
+    - 8
+    - 13
+    - 16
 - S74FCT191TS1 x 2
 - S74FCT573ATQ x 6
 - 55AF33F
