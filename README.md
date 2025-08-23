@@ -11,11 +11,11 @@ For fun there are no disignators on the silkcreen, it seems like there is no sil
   - used pins:
     - 1 - in1
     - 4 - tap 2
-    - 5 - tap 4
-    - 6 - tap 6
-    - 7 - tap 8
+    - 5 - tap 4, through 0R resistor
+    - 6 - tap 6, through 0R resistor
+    - 7 - tap 8, through 0R resistor
     - 8 - gnd
-    - 13 - tap 3
+    - 13 - tap 3, through 0R resistor
     - 16 - vcc
 - S74FCT191TS1 x 2
 - S74FCT573ATQ x 6
