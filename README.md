@@ -9,7 +9,7 @@ For fun there are no disignators on the silkcreen, it seems like there is no sil
 - DS1010S - 50ns delay line
   - datasheet: https://www.analog.com/media/en/technical-documentation/data-sheets/DS1010.pdf
   - used pins:
-    - 1 - in1
+    - 1 - in1 - probably comes from CPUCLK_EXP
     - 4 - tap 2
     - 5 - tap 4, through 0R resistor - seems to go to scsi module connector
         - Also goes to cclk jumper
