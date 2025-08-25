@@ -21,7 +21,9 @@ For fun there are no disignators on the silkcreen, it seems like there is no sil
 - S74FCT573ATQ x 6
 - 55AF33F
 - QS3245Q
-  
+
+
+  ext90 signal is present on the resistor near the jumper near the rom socket closest to the cpu connecter, near the unpopulated plcc footprint (not the foo bar ones)
 
 ### CPU module
 
