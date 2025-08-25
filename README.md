@@ -25,6 +25,21 @@ For fun there are no disignators on the silkcreen, it seems like there is no sil
 
   ext90 signal is present on the resistor near the jumper near the rom socket closest to the cpu connecter, near the unpopulated plcc footprint (not the foo bar ones)
 
+#### PALs
+
+Under cpu module:
+- DMACI - red dot
+- STRTI - purple dot
+- STRBI - blue dot
+- TERMI - yellow dot
+
+visible with cpu module mounted:
+- RACI - green dot
+- CASI - white dot, bodge wire
+- DMAPI - no dot?
+- ??? - red dot
+- EROMI - blue dot
+
 ### CPU module
 
 - 50MHz osc
